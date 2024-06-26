@@ -1,5 +1,3 @@
-<title>Grace Ma</title>
-
 # About me
 
 Hi
