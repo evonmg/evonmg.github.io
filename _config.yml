@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 plugins:
 title: Website
 description: My website
+logo: smileyface.jpg
