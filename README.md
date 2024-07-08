@@ -7,11 +7,3 @@ I'm broadly interested in studying human behavior computationally and modeling c
 I'm also a creator; I love the process of building things from scratch and messing around with them in my sandbox, whether it's music composition, fiction, or code (like this website!!), and savoring all the cool skills and knowledge I gain from this process. Recently I've picked up cooking, and the exploration that comes from throwing a bunch of random ingredients into a pot has become one of my favorite parts of my day. In my free time, I also enjoy learning and playing [odd instruments](https://www.instagram.com/evotamatone/), reading books (classics and fantasy/sci-fi) and Wikipedia, listening to music (late/post Romantic symphonies and piano pieces), and not finishing the main quest in open world video games.
 
 For more information, you can check out my [CV](https://www.youtube.com/watch?v=dQw4w9WgXcQ) or explore the rest of this website at your own risk :)
-
-# Important info
-
-[Click here!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-[Here](info.txt) is more info about about me
-
-![smiley](smileyface.jpg)
