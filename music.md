@@ -8,8 +8,14 @@ Here are some of my works from the past couple of years!
 
 String Quartet (2024)
 
-https://github.com/evonmg/evonmg.github.io/assets/113488211/15bcb6a7-2f92-4e77-9110-6ea15aa35305
+<audio controls>
+  <source src="trio.mp3" type="audio/mp3">
+  Your browser does not support the audio tag.
+</audio>
 
 Piano Trio (2023)
 
-https://github.com/evonmg/evonmg.github.io/assets/113488211/10d00593-219d-4740-b3ff-a9c3d0b254b9
+<audio controls>
+  <source src="quartet.mp3" type="audio/mp3">
+  Your browser does not support the audio tag.
+</audio>
