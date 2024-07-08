@@ -9,13 +9,13 @@ Here are some of my works from the past couple of years!
 String Quartet (2024)
 
 <audio controls>
-  <source src="trio.mp3" type="audio/mp3">
+  <source src="quartet.mp3" type="audio/mp3">
   Your browser does not support the audio tag.
 </audio>
 
 Piano Trio (2023)
 
 <audio controls>
-  <source src="quartet.mp3" type="audio/mp3">
+  <source src="trio.mp3" type="audio/mp3">
   Your browser does not support the audio tag.
 </audio>
