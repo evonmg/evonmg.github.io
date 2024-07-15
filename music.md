@@ -6,14 +6,16 @@ On the academic side, I've taken classes in music theory and composition and wil
 
 Here are some of my works from the past couple of years!
 
-String Quartet (2024)
+<b>String Quartet (2024)</b>
 
 <audio controls>
   <source src="quartet.mp3" type="audio/mp3">
   Your browser does not support the audio tag.
 </audio>
 
-Piano Trio (2023)
+Performed live in a reading session by The New York Classical Players, Dongmin Kim, Music Director, at a residency at Brown University.
+
+<b>Piano Trio (2023)</b>
 
 <audio controls>
   <source src="trio.mp3" type="audio/mp3">

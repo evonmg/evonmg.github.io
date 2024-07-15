@@ -1,6 +1,6 @@
 # About
 
-Hi! I'm a rising junior at Brown University double concentrating in Music and Computer Science, with additional significant coursework in Economics.
+Hi! I'm a rising junior at Brown University double concentrating in Computer Science and Music, with additional significant coursework in Economics.
 
 I'm broadly interested in studying human behavior computationally and modeling complex human systems with math. It means my transcript and experiences are kind of all over the place, but this has informed my interests in various areas of computer science (machine learning, natural language processing), social science (applied microeconomics and econometrics, linguistics, sociology, anthropology), and art (music theory), some of which I've explored and others I'm still getting to know better. I also hold a general fascination with how the world works, so I'm interested in virtually anything outside of these areas as well! I enjoy studying literature, music history, and various cool topics in the humanities and sciences, and I aspire to integrate all these areas of knowledge to put forth work to make the world a better place.
 
