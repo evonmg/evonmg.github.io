@@ -1,3 +1,5 @@
+# Education
+
 I love learning, and a personal website about me wouldn't be complete without a section on my educational philosophy. Brown is (for better or worse) known for its complete academic freedom, trusting 18 year olds with designing their own curriculum. This lack of structure is daunting, but it does mean I've been able to take advantage of so many different kinds of opportunities and explore my interests to the max.
 
 My transcript might not make much sense on a first glance, but I've had a lot of fun trying to explore what ties all of my interests together and ways to combine them. I've taken classes in 11 distinct departments now (Computer Science, Math/Applied Math, Music, Linguistics, English/Literary Arts, East Asian Studies, Economics, Anthropology, and Archaeology), and I've enjoyed learning about every one of these fields! I also have research experience combining several of these areas - I've worked on projects in computational chemistry, computer science for social impact, and AI music, and I find the interdisciplinary connections to be very fulfilling.
