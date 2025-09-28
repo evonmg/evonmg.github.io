@@ -8,7 +8,9 @@ I love food. In particular, as a first generation Chinese-American, I love Chine
 
 **Gene's Flatbread** (Boston): Hole in the wall Xi'an place just outside of Chinatown that's also 100% peanut free! They do spicy noodle soups with huge amounts of lamb/pork, lamb skewers, and roujiamo for *insane* prices (you can get a humongous bowl of noodles with overflowing slices of meat on top for under $12!). And did I mention how thick their noodles are?? Recommendations: hot & sour noodle soup, lamb noodle soup, pork roujiamo
 
-**Jahunger** (locations in both Providence and Cambridge): authentic Uyghur cuisine! I love noodles and spicy food, and this place does both amazingly (the hand pulled noodles are to die for). Their kitchen is 100% peanut free! Recommendations: spicy green beans, Jahunger noodles, laghman, chicken stew (dapanji), original meefen, lamb skewer, spicy eggplant, honey cake
+**Jahunger** (locations in both Providence and Cambridge): authentic Uyghur cuisine! I love noodles and spicy food, and this place does both amazingly (the hand pulled noodles are to die for). Their kitchen is 100% peanut free! Recommendations: spicy green beans, Jahunger noodles, laghman, chicken stew (dapanji), original meefen, lamb skewer, mutton noodle soup, spicy eggplant, honey cake
+
+**Jiro's** (Boston): Unassuming, hole in the wall sushi spot near Chinatown that serves delicious chirashi boxes! The fish is fresh and the chef's special changes every day. Recommendations: chirashi omakase box
 
 **Kenzoku Mazesoba** (Boston): they specialize in mazesoba (Japanese brothless ramen) but also offer other dishes like sushi. They also offer you a small bowl of rice to soak up your leftover sauce when you're done with the noodles. Recommendations: tan tan mazesoba, shoyu mazesoba, matcha latte
 
@@ -18,11 +20,13 @@ I love food. In particular, as a first generation Chinese-American, I love Chine
 
 **Miraku** (Boston): Some of the best ramen I've ever had hands down. Their menu is tiny (only 3 ramen flavors!), but from what I can tell they are all beautifully crafted and delicious and the broths are magical. Apparently they've gotten recognition from Michelin?? Recommendations: everything!
 
+**Sakabayashi** (Boston): Sushi spot in Back Bay that has very affordable lunch deals! Recommendations: can't go wrong
+
 **Santouka** (Back Bay and Cambridge): they have delicious ramen, toppings, and sides and some pretty good deals for students (make sure to bring your student ID!). Their menu is pretty small, but you can't go wrong with anything on it. Recommendations: any of the ramen flavors, gyoza, takoyaki
 
 **Tallulah's Tacqueria** (Providence): Mexican tacos, quesadillas, tortas, and bowls. They used to be pretty good for the price, but inflation has hit them as well and they no longer offer free guac :( I've only ever gotten their bowl, but I've sampled pretty much every meat option on the menu and I have to say they're all very good. Recommendations: there is no bad combination!
 
-**Ten Second Yunnan Rice Noodle (Shimiaodao)** (Boston): chain restaurant from the mainland in Chinatown that sells a modern take on Yunnan rice noodles, or "crossing the bridge noodles" (过桥米线). Traditionally, they're made in a clear, milky pork broth that has been simmering for hours, as legend has it that a woman had to cross a bridge every day to bring the soup to her husband, but here they sell broths in all sorts of flavors. The only time I've been here, it was snowing really hard outside and the soup warmed me up like a hug and I'll never forget it. Recommendations: you can't go wrong, but the golden soup is really great if you're into hot and sour flavors!
+**Ten Second Yunnan Rice Noodle (Shimiaodao)** (Boston): chain restaurant from the mainland in Chinatown that sells a modern take on Yunnan rice noodles, or "crossing the bridge noodles" (过桥米线). Traditionally, they're made in a clear, milky bone broth that has been simmering for hours, as legend has it that a woman had to cross a bridge every day to bring the soup to her husband, but here they sell broths in all sorts of flavors. The only time I've been here, it was snowing really hard outside and the soup warmed me up like a hug and I'll never forget it. Recommendations: you can't go wrong, but the golden soup is really great if you're into hot and sour flavors!
 
 **Tora** (Boston): a tiny place in Chinatown specializing in kaisen don (seafood rice bowls). They have a lot of options and their raw fish is super fresh. Downside is that the food is quite pricy ($25-$30 per bowl on average), but worth it for a special occasion. Recommendations: you can't really go wrong here depending on your tastes, but I got the maizuru don and found it really good in terms of value and also variety of seafood
 
@@ -57,6 +61,7 @@ Snacks
 * Chocolate Coffee Beans
 * Twisted Cookie Snacks (the Pocky knockoffs)
 * Ube Pretzels
+* Sour Strawberry Candy Belts
 
 Desserts
 * Chocolate Cheesecake Bites
@@ -65,6 +70,8 @@ Desserts
 * Ube Ice Cream
 * Hold the Cone (all of the flavors)
 * Chocolate Lava Cake
+* Passionfruit Sorbet
+* Frozen Taiyaki
 
 Frozen meals
 * Butter Chicken
