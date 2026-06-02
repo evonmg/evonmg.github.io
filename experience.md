@@ -1,5 +1,13 @@
 # experience
 
-I have worn a lot of hats throughout undergrad. I starting out in chemistry research, jumping to economics and then math and formal linguistics and theoretical machine learning, and finally landing on mostly taking humanities seminars and writing papers in my senior year. I've been a wet lab grunt in a space rock lab, an NSF REU recipient working on LLMs for misinformation, a teaching assistant in computer science and music intro classes, a researcher in generative music models, and a software engineering intern. I've taken classes in 11 different departments, and my senior honors thesis (in music!) was an 11-minute arrangement of 3 Rachmaninoff piano études for orchestra.
+I have worn a lot of hats throughout undergrad. I starting out in chemistry research, jumping to economics and statistics and then math and formal linguistics and theoretical machine learning, and finally landing on mostly taking humanities seminars and writing papers in my senior year. I've been, in chronological order:
 
-While I will be a software engineer for the near forseeable future, I also want to try out a wide array of work across the intersections between my different experiences. I'm interested in film scoring, AI safety/alignment research, and data science, among other things, and I am always actively looking to try new stuff!
+1. a wet lab grunt in a space rock lab
+2. an NSF REU recipient working on LLMs for misinformation
+3. a teaching assistant in computer science and music intro classes
+4. a researcher in generative music models
+5. a software engineering intern
+
+I've taken classes in 11 different departments, and my senior honors thesis (in music!) was an 11-minute arrangement of 3 Rachmaninoff piano études for orchestra.
+
+While I will be a software engineer for the near forseeable future, I also want to try out a wide array of work across the intersections between my different experiences. I'm interested in film scoring, AI safety/alignment research, and technology/IT for arts organizations, among other things, and I am always looking to try on a new hat!
