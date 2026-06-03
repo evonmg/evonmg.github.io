@@ -10,4 +10,4 @@ I have worn a lot of hats throughout undergrad, starting out in chemistry resear
 
 I've taken classes in 11 different departments, and my senior honors thesis (in music!) was an 11-minute arrangement of 3 Rachmaninoff piano études for orchestra.
 
-While I will be a software engineer for the near forseeable future, I also want to try out a wide array of work across the intersections between my different experiences. I'm interested in film scoring, AI safety/alignment research, and technology/IT for arts organizations, among other things, and I am always looking to try on a new hat!
+While I will be a software engineer for the near forseeable future, I also want to try out a wide array of projects across the intersections between my different experiences. I'm interested in film scoring, AI safety/alignment research, and technology/IT for arts organizations, among other things, and I am always looking to try on a new hat!
