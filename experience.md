@@ -1,6 +1,6 @@
 # experience
 
-I have worn a lot of hats throughout undergrad. I starting out in chemistry research, jumping to economics and statistics and then math and formal linguistics and theoretical machine learning, and finally landing on mostly taking humanities seminars and writing papers in my senior year. I've been, in chronological order:
+I have worn a lot of hats throughout undergrad, starting out in chemistry research, jumping to economics and statistics and then math and formal linguistics and theoretical machine learning, and finally landing on mostly taking humanities seminars and writing papers in my senior year. I've been, in chronological order:
 
 1. a wet lab grunt in a space rock lab
 2. an NSF REU recipient working on LLMs for misinformation
